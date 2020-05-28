@@ -19,3 +19,4 @@ String getFormattedDate()
        <h1>Добро пожаловать!</h1>
        <i>Сегодня <%= getFormattedDate() %></i>
   </body>
+</html>
